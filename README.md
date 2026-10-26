@@ -1,6 +1,6 @@
 # NEO Hotel Group — Netlify website
 
-This project contains the website plus NEO's interactive events calendar. It is prepared for Netlify; it has not been deployed to a Netlify account.
+This project contains the website plus NEO's interactive events calendar. It is deployed at https://neo-hotel-group-ohio.netlify.app/ and connected to this repository for automatic production deploys from `main`.
 
 ## Deploy the automatic calendar
 
@@ -62,6 +62,6 @@ The group inquiry page uses NEO's custom planning form. Visitors can prepare a d
 
 ### Netlify
 
-Enable Netlify form detection before deploying. The HTML declares the `neo-careers` multipart form with a honeypot. Submissions and résumé attachments appear in the site’s **Forms** dashboard. Configure an email notification to `rickesh@neohotelgroup.com` there if desired; notifications are not configured by this source export. Netlify Forms usage limits apply. Native Netlify Forms handles the upload; the optional Sites application backend is not used on Netlify. Official setup: https://docs.netlify.com/manage/forms/setup/ .
+Netlify form detection is enabled. The HTML declares the `neo-careers` multipart form with a honeypot. Submissions and résumé attachments appear in the site’s **Forms** dashboard. Configure an email notification to `rickesh@neohotelgroup.com` there if desired; notifications are not configured by this source export. Netlify Forms usage limits apply. Native Netlify Forms handles the upload; the optional Sites application backend is not used on Netlify. Official setup: https://docs.netlify.com/manage/forms/setup/ .
 
 No applicant data is stored in browser localStorage. Netlify handles application storage and résumé uploads through its Forms service.
