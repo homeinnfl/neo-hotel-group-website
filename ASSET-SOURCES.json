@@ -1,0 +1,142 @@
+{
+  "reviewed": "2026-10-26",
+  "assets": [
+    {
+      "file": "stow.jpg",
+      "property": "Home2 Suites by Hilton Stow Akron",
+      "kind": "Exterior \u2014 day",
+      "source_page": "https://www.hilton.com/en/hotels/cakstht-home2-suites-stow-akron/",
+      "url": "https://www.hilton.com/im/en/CAKSTHT/7499493/cakstht-exterior-day-.jpg?ch=2575&cw=4600&gravity=NorthWest&impolicy=crop&rh=900&rw=1600&xposition=0&yposition=247",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "file": "stow-pool.jpg",
+      "property": "Home2 Suites by Hilton Stow Akron",
+      "kind": "Indoor pool",
+      "source_page": "https://www.hilton.com/en/hotels/cakstht-home2-suites-stow-akron/gallery/",
+      "provider": "Hilton",
+      "url": "https://www.hilton.com/im/en/CAKSTHT/7499644/pool-1-.jpg?ch=2588&cw=4600&gravity=NorthWest&impolicy=crop&rh=900&rw=1600&xposition=0&yposition=239",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "file": "canton.jpg",
+      "property": "SpringHill Suites Canton",
+      "kind": "Exterior \u2014 dusk",
+      "source_page": "https://www.marriott.com/en-us/hotels/caksh-springhill-suites-canton/photos/",
+      "url": "https://cache.marriott.com/content/dam/marriott-renditions/CAKSH/caksh-exterior-0028-hor-wide.jpg?downsize=1600px%3A%2A&interpolation=progressive-bilinear&output-quality=80",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "file": "canton-firepit.jpg",
+      "property": "SpringHill Suites Canton",
+      "kind": "Outdoor firepit",
+      "source_page": "https://www.marriott.com/en-us/hotels/caksh-springhill-suites-canton/photos/",
+      "provider": "Marriott International",
+      "url": "https://cache.marriott.com/content/dam/marriott-renditions/CAKSH/caksh-fire-0014-hor-wide.jpg?downsize=1600px%3A%2A&interpolation=progressive-bilinear&output-quality=85",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "file": "canton-lobby.jpg",
+      "property": "SpringHill Suites Canton",
+      "kind": "Lobby gathering space",
+      "source_page": "https://www.marriott.com/en-us/hotels/caksh-springhill-suites-canton/photos/",
+      "provider": "Marriott International",
+      "url": "https://cache.marriott.com/content/dam/marriott-renditions/CAKSH/caksh-lobby-0035-hor-wide.jpg?downsize=1600px%3A%2A&interpolation=progressive-bilinear&output-quality=85",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "file": "cuyahoga-falls.jpg",
+      "property": "Comfort Inn & Suites Cuyahoga Falls \u2013 Akron",
+      "kind": "Exterior \u2014 twilight",
+      "source_page": "https://arestravel.com/hotel/single/17077/22803",
+      "url": "https://i.travelapi.com/lodging/1000000/100000/99800/99782/bfc296b6_z.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "file": "cuyahoga-falls-pool.jpg",
+      "property": "Comfort Inn & Suites Cuyahoga Falls \u2013 Akron",
+      "kind": "Indoor pool",
+      "source_page": "https://arestravel.com/hotel/single/17077/22803",
+      "provider": "Expedia Group property-distributed photo",
+      "url": "https://i.travelapi.com/lodging/1000000/100000/99800/99782/1609c8a9_z.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "file": "cuyahoga-falls-lobby.jpg",
+      "property": "Comfort Inn & Suites Cuyahoga Falls \u2013 Akron",
+      "kind": "Lobby and fireplace",
+      "source_page": "https://arestravel.com/hotel/single/17077/22803",
+      "provider": "Expedia Group property-distributed photo",
+      "url": "https://i.travelapi.com/lodging/1000000/100000/99800/99782/f2aef5c1_z.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "file": "akron-south.jpg",
+      "property": "Comfort Inn & Suites Akron South",
+      "kind": "Exterior \u2014 twilight",
+      "source_page": "https://www.hotelscombined.com/Hotel/Comfort_Inn_Suites_Akron_South.htm",
+      "provider": "Ice Portal (property-distributed photo)",
+      "url": "https://content.r9cdn.net/rimg/himg/ba/cd/36/ice-1070634053-58685c-371474.jpg?width=1600&crop=false",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "file": "akron-lobby.jpg",
+      "property": "Comfort Inn & Suites Akron South",
+      "kind": "Lobby",
+      "source_page": "https://www.hotelscombined.com/Hotel/Comfort_Inn_Suites_Akron_South.htm",
+      "provider": "Ice Portal (property-distributed photo)",
+      "url": "https://content.r9cdn.net/rimg/himg/df/5f/aa/ice-1070634053-eb7580-540533.jpg?width=1600&crop=false",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "file": "akron-room.jpg",
+      "property": "Comfort Inn & Suites Akron South",
+      "kind": "King guest room",
+      "source_page": "https://www.hotelscombined.com/Hotel/Comfort_Inn_Suites_Akron_South.htm",
+      "provider": "Ice Portal (property-distributed photo)",
+      "url": "https://content.r9cdn.net/rimg/himg/35/be/cb/ice-1070634053-4e8f84-642763.jpg?width=1600&crop=false",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "file": "ohio-scenic.jpg",
+      "location": "Brandywine Falls and observation area, Cuyahoga Valley National Park",
+      "source_page": "https://www.nps.gov/media/photo/gallery-item.htm?gid=5d6643a2-155d-4519-3ebdf95e7e57b44c&id=5d7dc28d-155d-4519-3e3b-88bcbb3706cf",
+      "url": "https://www.nps.gov/npgallery/GetAsset/5d7dc28d-155d-4519-3e3b-88bcbb3706cf",
+      "credit": "NPS / D.J. Reiser",
+      "rights": "Public domain; NPS credit without copyright symbol; NPS API grants full rights",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "file": "springhill-suites.svg",
+      "brand": "SpringHill Suites by Marriott",
+      "source_page": "https://commons.wikimedia.org/wiki/File:SpringHill_Suites_logo.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SpringHill_Suites_logo.svg",
+      "credit": "Marriott International",
+      "width": 241.72,
+      "height": 42.346668,
+      "note": "Transparent vector wordmark, 2016 asset from Marriott via Commons; trademark retained."
+    },
+    {
+      "file": "springhill-official.png",
+      "brand": "SpringHill Suites by Marriott",
+      "source_page": "https://www.marriott.com/brands/springhill-suites.mi",
+      "discovered_from": "https://www.marriott.com/etc.clientlibs/mi-aem-brands-spa/clientlibs/clientlib-static-component.min.css",
+      "url": "https://www.marriott.com/content/dam/marriott-digital/sh/global-property-shared/en_us/logo/assets/sh_logo_L.png",
+      "width": 600,
+      "height": 180,
+      "note": "Current official transparent header logo; preferred over 2016 Commons SVG."
+    }
+  ]
+}

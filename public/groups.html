@@ -1,0 +1,156 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Group inquiries | NEO Hotel Group</title><meta name="description" content="Group inquiries. Plan your visit with NEO Hotel Group."><link rel="icon" href="favicon.png"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="groups.css?v=phone-20261026"></head><body><a class="skip" href="#main">Skip to content</a><header class="site-header"><a class="logo" href="index.html" aria-label="NEO Hotel Group home"><img src="neo-logo.png" alt="NEO Hotel Group" width="154" height="54"></a><button id="menu" aria-label="Open navigation" aria-expanded="false" aria-controls="nav">Menu <span aria-hidden="true">☰</span></button><nav id="nav" aria-label="Main navigation"><a href="index.html#hotels">Our hotels</a><a href="index.html#local-guides">Explore Ohio</a><a href="events.html">Events</a><a href="groups.html">Groups</a><a href="careers.html">Careers</a><a class="nav-cta" href="index.html#stay">Find your stay <span aria-hidden="true">↗</span></a></nav></header><main id="main"><section class="group-hero"><div class="wrap"><p class="eyebrow" id="eyebrow">YOUR PEOPLE. OUR PLACE.</p><h1>Better<br><em>together.</em></h1><div class="group-hero-bottom"><p>Wedding weekends. Away games. Big reunions.<br>Bring everyone along. We’ll help with the stay.</p><a href="#group-request">Plan your group stay <span aria-hidden="true">↓</span></a></div></div></section><section class="group-layout wrap" id="group-request"><aside class="group-intro"><p class="eyebrow">A LITTLE PLANNING. A WARM WELCOME.</p><h2>Let’s make<br>room for<br>everyone.</h2><p>Share your dates and a few details. Our team will help you find the right fit across our four Ohio hotels.</p><div class="group-intro-note"><span>LOCAL ROOTS</span><p>Proudly serving Akron–Canton for over 30 years.</p></div><a href="mailto:rickesh@neohotelgroup.com">rickesh@neohotelgroup.com ↗</a><p class="group-small">Room types, rates and special requests are subject to availability and confirmed by our team.</p></aside><div class="group-form-wrap"><div class="group-form-heading"><p class="eyebrow">START SOMETHING GOOD</p><h2>Your group stay</h2><p>Group blocks start at 5 rooms per night. Fields marked optional can be left blank.</p></div><div class="group-callout"><div><span>PREFER TO TALK IT THROUGH?</span><p>Our group inquiry agent is ready to help.</p></div><a href="tel:+14073781692" aria-label="Call the group inquiry agent at 407 378 1692">Call (407) 378-1692 <span aria-hidden="true">↗</span></a></div><form id="gbr" novalidate>
+    <fieldset>
+      <legend><span>01</span> Your group</legend>
+      <div class="field" id="hotelField">
+        <label for="hotel">Hotel</label>
+        <select id="hotel" name="hotel" required><option value="">Choose a hotel</option></select>
+        <div class="err" aria-live="polite" data-for="hotel"></div>
+      </div>
+      <div class="grid2">
+        <div class="field">
+          <label for="groupType">Type of group</label>
+          <select id="groupType" name="groupType">
+            <option>Wedding</option><option>Sports team</option><option>Corporate or conference</option>
+            <option>Family reunion</option><option>Church or faith group</option><option>School or university</option>
+            <option>Tour or travel group</option><option>Government or military</option><option>Other</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="groupName">Group or event name</label>
+          <input maxlength="160" id="groupName" name="groupName" type="text" autocomplete="off" placeholder="Your wedding, team or event" required>
+          <div class="err" aria-live="polite" data-for="groupName"></div>
+        </div>
+      </div>
+      <div class="field">
+        <label for="organization">Organization <span class="opt">(optional)</span></label>
+        <input maxlength="160" id="organization" name="organization" type="text" autocomplete="organization" placeholder="Team, company or school">
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend><span>02</span> Dates &amp; rooms</legend>
+      <div class="grid2">
+        <div class="field">
+          <label for="checkIn">Check-in</label>
+          <input id="checkIn" name="checkIn" type="date" required>
+          <div class="err" aria-live="polite" data-for="checkIn"></div>
+        </div>
+        <div class="field">
+          <label for="checkOut">Check-out</label>
+          <input id="checkOut" name="checkOut" type="date" required>
+          <div class="err" aria-live="polite" data-for="checkOut"></div>
+        </div>
+      </div>
+      <label class="check"><input id="flexibleDates" name="flexibleDates" type="checkbox"> My dates can move a day or two</label>
+      <div class="grid2">
+        <div class="field">
+          <label for="roomsPerNight">Rooms per night</label>
+          <div class="stepper">
+            <button type="button" data-target="roomsPerNight" data-step="-1" aria-label="One fewer room">−</button>
+            <input id="roomsPerNight" name="roomsPerNight" type="number" inputmode="numeric" min="1" max="300" value="10" required>
+            <button type="button" data-target="roomsPerNight" data-step="1" aria-label="One more room">+</button>
+          </div>
+          <div class="err" aria-live="polite" data-for="roomsPerNight"></div>
+        </div>
+        <div class="field">
+          <label for="guests">Total guests <span class="opt">(approx.)</span></label>
+          <input id="guests" name="guests" type="number" inputmode="numeric" min="1" max="2000" placeholder="30">
+        </div>
+      </div>
+      <div class="field" id="mixField">
+        <span class="label" id="mixLabel">Split your rooms by bed type</span>
+        <div class="mix" role="group" aria-labelledby="mixLabel">
+          <div class="mixrow">
+            <label for="kingRooms"><i class="sw sw-k"></i>One king bed</label>
+            <div class="stepper">
+              <button type="button" data-target="kingRooms" data-step="-1" aria-label="One fewer king room">−</button>
+              <input id="kingRooms" type="number" inputmode="numeric" min="0" max="300" value="5">
+              <button type="button" data-target="kingRooms" data-step="1" aria-label="One more king room">+</button>
+            </div>
+          </div>
+          <div class="mixrow">
+            <label for="queenRooms"><i class="sw sw-q"></i>Two queen beds</label>
+            <div class="stepper">
+              <button type="button" data-target="queenRooms" data-step="-1" aria-label="One fewer two-queen room">−</button>
+              <input id="queenRooms" type="number" inputmode="numeric" min="0" max="300" value="5">
+              <button type="button" data-target="queenRooms" data-step="1" aria-label="One more two-queen room">+</button>
+            </div>
+          </div>
+        </div>
+        <div class="split" aria-hidden="true"><i class="sw-k" id="splitK"></i><i class="sw-q" id="splitQ"></i></div>
+        <p class="hint" id="mixHint">Set either bed type and we'll fill in the rest of your rooms.</p>
+      </div>
+      <label class="check"><input id="noPref" type="checkbox"> Either bed type is fine</label>
+      <div class="tally" id="tally" aria-live="polite"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend><span>03</span> Make it yours</legend>
+      <div class="grid2">
+        <div class="field">
+          <label for="targetRate">Budget per room, per night <span class="opt">(optional)</span></label>
+          <div class="money"><span aria-hidden="true">$</span><input id="targetRate" name="targetRate" type="number" inputmode="decimal" min="0" step="1" placeholder="109"></div>
+        </div>
+        <div class="field">
+          <label for="payment">Who pays for the rooms?</label>
+          <select id="payment" name="payment">
+            <option>Each guest pays for their own room</option>
+            <option>One bill for all rooms</option>
+            <option>Rooms on one bill, guests pay extras</option>
+            <option>Not sure yet</option>
+          </select>
+        </div>
+      </div>
+      <div class="field">
+        <span class="label">Anything else you'll need? <span class="opt">(optional)</span></span>
+        <div class="chips">
+          <label class="chip"><input type="checkbox" name="needs" value="Group breakfast"><span>Group breakfast</span></label>
+          <label class="chip"><input type="checkbox" name="needs" value="Meeting or event space"><span>Meeting or event space</span></label>
+          <label class="chip"><input type="checkbox" name="needs" value="Bus or trailer parking"><span>Bus or trailer parking</span></label>
+          <label class="chip"><input type="checkbox" name="needs" value="Accessible rooms"><span>Accessible rooms</span></label>
+          <label class="chip"><input type="checkbox" name="needs" value="Pet-friendly rooms"><span>Pet-friendly rooms</span></label>
+          <label class="chip"><input type="checkbox" name="needs" value="Early check-in or late checkout"><span>Early check-in or late checkout</span></label>
+        </div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend><span>04</span> Let’s connect</legend>
+      <div class="grid2">
+        <div class="field">
+          <label for="contactName">Your name</label>
+          <input maxlength="160" id="contactName" name="contactName" type="text" autocomplete="name" required>
+          <div class="err" aria-live="polite" data-for="contactName"></div>
+        </div>
+        <div class="field">
+          <label for="phone">Phone</label>
+          <input id="phone" name="phone" type="tel" autocomplete="tel" placeholder="(330) 555-0100" required>
+          <div class="err" aria-live="polite" data-for="phone"></div>
+        </div>
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+        <div class="err" aria-live="polite" data-for="email"></div>
+      </div>
+      <div class="field">
+        <span class="label" id="prefLabel">Best way to reach you</span>
+        <div class="seg" role="radiogroup" aria-labelledby="prefLabel">
+          <label><input type="radio" name="preferredContact" value="Email" checked><span>Email</span></label>
+          <label><input type="radio" name="preferredContact" value="Phone call"><span>Phone call</span></label>
+          <label><input type="radio" name="preferredContact" value="Text"><span>Text</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label for="notes">Notes <span class="opt">(optional)</span></label>
+        <textarea maxlength="2000" id="notes" name="notes" placeholder="Event venue, arrival times, anything that helps us plan"></textarea>
+      </div>
+      <div class="trap" aria-hidden="true"><label for="website">Website</label><input id="website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+    </fieldset>
+
+    <div class="actions">
+      <div class="formerr" id="formErr" role="alert"></div>
+      <button class="send" id="send" type="submit">Prepare email request ↗</button>
+      <p class="fine">You’ll review and send the request in your email app. This is an inquiry, not a confirmed reservation.</p>
+    </div>
+  </form><section class="group-done" id="done" hidden tabindex="-1" aria-live="polite"><p class="eyebrow">YOUR REQUEST IS READY</p><h2 id="doneTitle">One last step.<br>Send your email.</h2><p id="doneMessage">Your request has not been sent yet. Open your email app, review the details and send it to our team.</p><p id="doneEmail"></p><a class="button button-gold" id="emailRequest">Open email &amp; send ↗</a><details><summary>View or copy your request</summary><label for="requestSummary" class="hint">If your email app doesn’t open, copy these details and email rickesh@neohotelgroup.com.</label><textarea id="requestSummary" readonly rows="14"></textarea><button type="button" class="group-secondary" id="copyRequest">Copy request</button><p id="copyStatus" role="status"></p></details><button class="group-secondary" id="editRequest" type="button">← Edit my request</button></section><noscript><p>Please enable JavaScript to use this form, or email <a href="mailto:rickesh@neohotelgroup.com">rickesh@neohotelgroup.com</a> with your hotel, dates, room count and contact details.</p></noscript></div></section></main><footer class="site-footer"><div class="wrap"><div class="footer-top"><p class="eyebrow">LOCAL ROOTS. A WARMER WELCOME.</p><a href="index.html#hotels" class="footer-statement">See you in Ohio.<span aria-hidden="true">↗</span></a></div><div class="footer-links"><a class="logo" href="index.html"><img src="neo-logo.png" alt="NEO Hotel Group" width="154" height="54"></a><p>Proudly serving Akron–Canton<br>for over 30 years.</p><div><a href="index.html#hotels">Our hotels</a><a href="events.html">Local events</a><a href="groups.html">Group inquiries</a><a href="careers.html">Careers</a></div><a href="mailto:rickesh@neohotelgroup.com">Let’s connect ↗</a></div><div class="footer-bottom"><span>© <span id="year">2026</span> NEO Hotel Group</span><span>Stow · Cuyahoga Falls · Akron · Canton</span></div></div></footer><script src="script.js"></script><script src="groups.js?v=20261026"></script></body></html>
