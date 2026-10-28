@@ -181,8 +181,8 @@ const SETTINGS = {
         ];
         const summary=lines.join('\n');
         $('requestSummary').value=summary;
-        $('emailRequest').href='mailto:rickesh@neohotelgroup.com?subject='+encodeURIComponent('Group block request — '+data.groupName+' — '+data.hotel)+'&body='+encodeURIComponent(summary);
-        $('doneEmail').textContent='To: rickesh@neohotelgroup.com';
+        $('emailRequest').href='mailto:tbd@neohotelgroup.com?subject='+encodeURIComponent('Group block request — '+data.groupName+' — '+data.hotel)+'&body='+encodeURIComponent(summary);
+        $('doneEmail').textContent='To: tbd@neohotelgroup.com';
       } else {
         const res=await fetch(SETTINGS.ENDPOINT,{method:'POST',body:JSON.stringify(data),signal:AbortSignal.timeout(20000)});
         const out=await res.json();
@@ -206,7 +206,7 @@ const SETTINGS = {
   });
 
   $('copyRequest').addEventListener('click',async()=>{
-    try{await navigator.clipboard.writeText($('requestSummary').value);$('copyStatus').textContent='Copied. Paste into an email to rickesh@neohotelgroup.com.';}
+    try{await navigator.clipboard.writeText($('requestSummary').value);$('copyStatus').textContent='Copied. Paste into an email to tbd@neohotelgroup.com.';}
     catch{$('requestSummary').focus();$('requestSummary').select();$('copyStatus').textContent='Select and copy the request above.';}
   });
   $('editRequest').addEventListener('click',()=>{$('done').hidden=true;form.hidden=false;hotelSel.focus();});
