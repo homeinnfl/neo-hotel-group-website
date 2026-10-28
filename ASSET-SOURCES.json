@@ -4,7 +4,7 @@
     {
       "file": "stow.jpg",
       "property": "Home2 Suites by Hilton Stow Akron",
-      "kind": "Exterior \u2014 day",
+      "kind": "Exterior — day",
       "source_page": "https://www.hilton.com/en/hotels/cakstht-home2-suites-stow-akron/",
       "url": "https://www.hilton.com/im/en/CAKSTHT/7499493/cakstht-exterior-day-.jpg?ch=2575&cw=4600&gravity=NorthWest&impolicy=crop&rh=900&rw=1600&xposition=0&yposition=247",
       "width": 1600,
@@ -23,7 +23,7 @@
     {
       "file": "canton.jpg",
       "property": "SpringHill Suites Canton",
-      "kind": "Exterior \u2014 dusk",
+      "kind": "Exterior — dusk",
       "source_page": "https://www.marriott.com/en-us/hotels/caksh-springhill-suites-canton/photos/",
       "url": "https://cache.marriott.com/content/dam/marriott-renditions/CAKSH/caksh-exterior-0028-hor-wide.jpg?downsize=1600px%3A%2A&interpolation=progressive-bilinear&output-quality=80",
       "width": 1600,
@@ -51,8 +51,8 @@
     },
     {
       "file": "cuyahoga-falls.jpg",
-      "property": "Comfort Inn & Suites Cuyahoga Falls \u2013 Akron",
-      "kind": "Exterior \u2014 twilight",
+      "property": "Comfort Inn & Suites Cuyahoga Falls – Akron",
+      "kind": "Exterior — twilight",
       "source_page": "https://arestravel.com/hotel/single/17077/22803",
       "url": "https://i.travelapi.com/lodging/1000000/100000/99800/99782/bfc296b6_z.jpg",
       "width": 1000,
@@ -60,7 +60,7 @@
     },
     {
       "file": "cuyahoga-falls-pool.jpg",
-      "property": "Comfort Inn & Suites Cuyahoga Falls \u2013 Akron",
+      "property": "Comfort Inn & Suites Cuyahoga Falls – Akron",
       "kind": "Indoor pool",
       "source_page": "https://arestravel.com/hotel/single/17077/22803",
       "provider": "Expedia Group property-distributed photo",
@@ -70,7 +70,7 @@
     },
     {
       "file": "cuyahoga-falls-lobby.jpg",
-      "property": "Comfort Inn & Suites Cuyahoga Falls \u2013 Akron",
+      "property": "Comfort Inn & Suites Cuyahoga Falls – Akron",
       "kind": "Lobby and fireplace",
       "source_page": "https://arestravel.com/hotel/single/17077/22803",
       "provider": "Expedia Group property-distributed photo",
@@ -81,7 +81,7 @@
     {
       "file": "akron-south.jpg",
       "property": "Comfort Inn & Suites Akron South",
-      "kind": "Exterior \u2014 twilight",
+      "kind": "Exterior — twilight",
       "source_page": "https://www.hotelscombined.com/Hotel/Comfort_Inn_Suites_Akron_South.htm",
       "provider": "Ice Portal (property-distributed photo)",
       "url": "https://content.r9cdn.net/rimg/himg/ba/cd/36/ice-1070634053-58685c-371474.jpg?width=1600&crop=false",
@@ -138,5 +138,91 @@
       "height": 180,
       "note": "Current official transparent header logo; preferred over 2016 Commons SVG."
     }
-  ]
+  ],
+  "local_guide_photos": {
+    "reviewed": "2026-10-28",
+    "note": "Official venue and visitor-bureau photo sources; credit links are displayed with each photo. No open-license claim is made.",
+    "assets": [
+      {
+        "key": "zoo",
+        "url": "https://www.akronzoo.org/sites/default/files/styles/square_large/public/assets/featured/Featured%20Saki.png?h=00546c34&itok=BwwcAjuL",
+        "source_page": "https://www.akronzoo.org/",
+        "file": "images/local/zoo.jpg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "key": "maps",
+        "url": "https://mapsairmuseum.org/wp-content/uploads/2024/08/maps-helicopters-e1741704689497.jpg",
+        "source_page": "https://mapsairmuseum.org/",
+        "file": "images/local/maps.jpg",
+        "width": 1200,
+        "height": 694
+      },
+      {
+        "key": "hof",
+        "url": "https://static.clubs.nfl.com/image/upload/t_ratio16_9-size60-f_webp-c_fill/hof/mzypjlykj149fdh06crs",
+        "source_page": "https://www.profootballhof.com/visit",
+        "file": "images/local/hof.jpg",
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "key": "blue-door",
+        "url": "https://images.squarespace-cdn.com/content/v1/60539cd69cd5a145b078fdf0/2a016041-5b6b-43bc-91ec-49a486128753/Chicken%2Band%2BWaffles%2B0058.jpg",
+        "source_page": "https://www.bluedoorcafebakery.com/",
+        "file": "images/local/blue-door.jpg",
+        "width": 1004,
+        "height": 900
+      },
+      {
+        "key": "silver",
+        "url": "https://www.stowohio.gov/ImageRepository/Document?documentID=8848",
+        "source_page": "https://www.stowohio.gov/Facilities/Facility/Details/Silver-Springs-Park-16",
+        "file": "images/local/silver.jpg",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "key": "workz",
+        "url": "https://static.wixstatic.com/media/1a87aa_18c520f5e7314d688f781f8b4b48c78b~mv2.jpg",
+        "source_page": "https://www.playattheworkz.com/",
+        "file": "images/local/workz.jpg",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "key": "gervasi",
+        "url": "https://www.visitcanton.com/imager/files_idss_com/C204/444746cb-301d-4682-bcee-664209f8419e_91852798b59be8b28fc00edfe4aec23a.jpg",
+        "source_page": "https://www.visitcanton.com/directory/the-bistro-at-gervasi-vineyard/",
+        "file": "images/local/gervasi.jpg",
+        "width": 1151,
+        "height": 604
+      },
+      {
+        "key": "sippo",
+        "url": "https://www.visitcanton.com/imager/files_idss_com/C204/0a08b699-93ba-41b8-aa1b-fae0546dcb43_91852798b59be8b28fc00edfe4aec23a.jpg",
+        "source_page": "https://www.visitcanton.com/directory/sippo-lake-park/",
+        "file": "images/local/sippo.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      {
+        "key": "twisted-tourism",
+        "url": "https://www.visitcanton.com/imager/files_idss_com/C204/48bb441c-9046-4a1f-adfb-4a411af2345b_91852798b59be8b28fc00edfe4aec23a.jpg",
+        "source_page": "https://www.visitcanton.com/directory/the-twisted-olive/",
+        "file": "images/local/twisted-tourism.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      {
+        "key": "portage",
+        "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_800,q_80,w_1200/v1/clients/akron/Portage_Lakes_1_e8b4008c-ebaa-496f-8d09-71fc22c6a1cd.jpg",
+        "source_page": "https://www.visitakron-summit.org/plan/communities/portage-lakes/",
+        "file": "images/local/portage.jpg",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  }
 }

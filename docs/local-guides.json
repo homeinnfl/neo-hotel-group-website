@@ -1,0 +1,421 @@
+{
+  "reviewed": "2026-10-28",
+  "venues": {
+    "cvnp": {
+      "name": "Cuyahoga Valley National Park",
+      "location": "Cuyahoga Valley",
+      "tag": "Nature & scenery",
+      "description": "Make a day of waterfall overlooks, forest trails and the Ohio & Erie Canal Towpath. Brandywine Falls is a memorable place to start.",
+      "url": "https://www.nps.gov/cuva/planyourvisit/basicinfo.htm"
+    },
+    "stan": {
+      "name": "Stan Hywet Hall & Gardens",
+      "location": "Akron",
+      "tag": "Historic estate",
+      "description": "Tour the Tudor Revival manor and wander the landscaped gardens. Check the estate’s seasonal calendar for tours and special events.",
+      "url": "https://stanhywet.org/visit"
+    },
+    "zoo": {
+      "name": "Akron Zoo",
+      "location": "Akron",
+      "tag": "Family outing",
+      "description": "Meet wildlife from around the world and explore habitats designed for an easy family day out. Check admission and seasonal experiences before visiting.",
+      "url": "https://www.akronzoo.org/"
+    },
+    "kent": {
+      "name": "Kent State University Museum",
+      "location": "Kent",
+      "tag": "Fashion & design",
+      "description": "Discover fashion, textiles and decorative arts in a university museum with changing exhibitions. A thoughtful indoor stop for a day in Kent.",
+      "url": "https://www.kent.edu/museum"
+    },
+    "art": {
+      "name": "Akron Art Museum",
+      "location": "Downtown Akron",
+      "tag": "Art & architecture",
+      "description": "Explore modern and contemporary art, changing exhibitions and the museum’s striking architecture. Pair a gallery visit with a walk around downtown.",
+      "url": "https://akronartmuseum.org/"
+    },
+    "maps": {
+      "name": "MAPS Air Museum",
+      "location": "North Canton / Green",
+      "tag": "Aviation history",
+      "description": "See historic aircraft up close, explore aviation exhibits and learn the stories behind them. An engaging stop near Akron-Canton Airport.",
+      "url": "https://mapsairmuseum.org/admissionhours/"
+    },
+    "hof": {
+      "name": "Pro Football Hall of Fame",
+      "location": "Canton",
+      "tag": "Football history",
+      "description": "Step inside football history, explore the Hall of Fame Gallery and discover the players and moments that shaped the game.",
+      "url": "https://www.profootballhof.com/visit"
+    },
+    "mckinley": {
+      "name": "McKinley Presidential Library & Museum",
+      "location": "Canton",
+      "tag": "History & science",
+      "description": "Combine presidential history, local heritage and hands-on science in one visit. Check the museum’s current programs and planetarium schedule.",
+      "url": "https://mckinleymuseum.org/"
+    },
+    "canton-art": {
+      "name": "Canton Museum of Art",
+      "location": "Downtown Canton",
+      "tag": "Art & culture",
+      "description": "Browse changing exhibitions and a collection known for American works on paper and ceramics. Look for classes and special programs during your stay.",
+      "url": "https://www.cantonart.org/"
+    },
+    "blue-door": {
+      "name": "The Blue Door Café & Bakery",
+      "location": "Cuyahoga Falls",
+      "tag": "Brunch & dinner",
+      "description": "Make time for a leisurely brunch, baked goods or dinner at this State Road café. Browse the current menu and reserve ahead for your visit.",
+      "url": "https://www.bluedoorcafebakery.com/"
+    },
+    "cafe": {
+      "name": "The Café in Stow",
+      "location": "Stow",
+      "tag": "Comfort food",
+      "description": "A relaxed neighborhood stop for traditional American comfort food, from breakfast favorites to a casual meal later in the day.",
+      "url": "https://www.visitakron-summit.org/listing/the-cafe-in-stow/682/"
+    },
+    "crave": {
+      "name": "Crave on Front",
+      "location": "Downtown Cuyahoga Falls",
+      "tag": "Creative comfort food",
+      "description": "Explore inventive comfort food, sandwiches and entrées on Front Street. A convenient dinner stop before an evening around downtown Cuyahoga Falls.",
+      "url": "https://www.eatdrinkcrave.com/on-front/eat"
+    },
+    "swensons": {
+      "name": "Swensons Drive-In",
+      "location": "Stow",
+      "tag": "Burgers & shakes",
+      "description": "Try a Northeast Ohio drive-in tradition with burgers, sides and shakes served to your car. Check the Stow location’s menu before heading over.",
+      "url": "https://swensonsdriveins.com/locations/"
+    },
+    "beau": {
+      "name": "Beau’s on the River",
+      "location": "Cuyahoga Falls",
+      "tag": "Dining with a view",
+      "description": "Settle in for a meal overlooking the Cuyahoga River at Sheraton Suites. Check the restaurant’s current menus and reservation options.",
+      "url": "https://www.beausontheriver.com/"
+    },
+    "butcher": {
+      "name": "Butcher & Sprout",
+      "location": "Downtown Cuyahoga Falls",
+      "tag": "Farm-to-table dining",
+      "description": "A Front Street option for a meal or brunch, with a farm-to-table approach. Browse the menu and make it part of a downtown outing.",
+      "url": "https://www.butcherandsprout.com/"
+    },
+    "twisted": {
+      "name": "The Twisted Olive",
+      "location": "Green",
+      "tag": "Italian-American dining",
+      "description": "Enjoy pizza, pasta and signature entrées in a scenic setting with several dining spaces. Check seasonal patio availability and reserve a table.",
+      "url": "https://www.visitcanton.com/directory/the-twisted-olive/"
+    },
+    "brix": {
+      "name": "35° Brix",
+      "location": "Green",
+      "tag": "Scratch-made kitchen",
+      "description": "A locally owned kitchen with made-from-scratch dishes, a dining room, patio and full-service bar. Browse the current menu and reservation options.",
+      "url": "https://35brix.com/"
+    },
+    "bistro": {
+      "name": "The Bistro of Green",
+      "location": "Green",
+      "tag": "Neighborhood bistro",
+      "description": "Plan a relaxed dinner at this locally owned bistro. Explore the current food and wine selections, and check availability before you go.",
+      "url": "https://thebistroofgreen.com/"
+    },
+    "caston": {
+      "name": "Caston & Main Brew Yard",
+      "location": "Portage Lakes",
+      "tag": "Casual dining & beer",
+      "description": "A casual stop for a meal and a drink around Portage Lakes. Check the current menu and what’s happening at the brew yard.",
+      "url": "https://castonbrewyard.com/"
+    },
+    "gervasi": {
+      "name": "The Bistro at Gervasi Vineyard",
+      "location": "Canton",
+      "tag": "Italian dining & wine",
+      "description": "Dine in a restored barn on the Gervasi estate, with Italian cuisine and wines to explore. A lovely option for a celebratory evening.",
+      "url": "https://www.visitcanton.com/directory/the-bistro-at-gervasi-vineyard/"
+    },
+    "ninety-one": {
+      "name": "91 Wood Fired Oven",
+      "location": "North Canton & Jackson Township",
+      "tag": "Upscale casual",
+      "description": "Enjoy seasonal dishes in an inviting, upscale-casual setting. Choose the North Canton or Jackson Township location for menus and reservations.",
+      "url": "https://www.91oven.com/"
+    },
+    "table-six": {
+      "name": "Table Six Kitchen + Bar",
+      "location": "North Canton",
+      "tag": "Shareable plates",
+      "description": "Meet over shareable plates and drinks at this local kitchen and bar. An easy choice for a relaxed dinner with friends or family.",
+      "url": "https://www.table6canton.com/"
+    },
+    "aladdins": {
+      "name": "Aladdin’s Eatery",
+      "location": "North Canton / The Strip",
+      "tag": "Lebanese-American dining",
+      "description": "Find Lebanese-American favorites, including hummus, salads and pita wraps. Check the North Canton location for its current menu and hours.",
+      "url": "https://aladdins.com/"
+    },
+    "silver": {
+      "name": "Silver Springs Park",
+      "location": "Stow",
+      "tag": "Parks & play",
+      "description": "Spend an easy afternoon around Heritage Lake, picnic areas and the playground. Bring the family for fresh air and room to explore.",
+      "url": "https://www.stowohio.gov/Facilities/Facility/Details/Silver-Springs-Park-16"
+    },
+    "fox": {
+      "name": "Fox Den Golf Course",
+      "location": "Stow",
+      "tag": "Golf",
+      "description": "Fit a round of golf into your stay at Stow’s public course. Check tee times and course details before making your plans.",
+      "url": "https://www.visitakron-summit.org/listing/fox-den-golf-course/81/"
+    },
+    "munroe": {
+      "name": "Munroe Falls Metro Park",
+      "location": "Munroe Falls",
+      "tag": "Trails & fresh air",
+      "description": "Explore wooded trails and open landscapes just beyond Stow. Review the park map and current trail alerts to choose your route.",
+      "url": "https://www.summitmetroparks.org/parks-trails/munroe-falls-metro-park/"
+    },
+    "downtown": {
+      "name": "Downtown Cuyahoga Falls",
+      "location": "Cuyahoga Falls",
+      "tag": "Shops & riverfront",
+      "description": "Stroll Front Street, browse independent shops and stop for coffee or a treat. Check downtown’s calendar for markets and seasonal happenings.",
+      "url": "https://www.downtowncf.com/"
+    },
+    "workz": {
+      "name": "The Workz",
+      "location": "Downtown Cuyahoga Falls",
+      "tag": "Games & live music",
+      "description": "Head to the historic Falls Theater for arcade games, duckpin bowling and live entertainment. Check current hours and the event lineup before visiting.",
+      "url": "https://www.playattheworkz.com/"
+    },
+    "cascade": {
+      "name": "Cascade Valley Metro Park",
+      "location": "Akron",
+      "tag": "Scenic walks",
+      "description": "Choose a walk through the Cuyahoga River valley or visit the Overlook Area for sweeping views. Check park alerts for access updates.",
+      "url": "https://www.summitmetroparks.org/parks-trails/cascade-valley-metro-park/"
+    },
+    "blossom": {
+      "name": "Blossom Music Center",
+      "location": "Cuyahoga Falls",
+      "tag": "Live music",
+      "description": "Plan an evening of music at the outdoor amphitheater, home to The Cleveland Orchestra’s summer season. Check tickets, parking and the event schedule.",
+      "url": "https://www.clevelandorchestra.com/venues/blossom-music-center"
+    },
+    "portage": {
+      "name": "Explore Portage Lakes",
+      "location": "Portage Lakes",
+      "tag": "Waterfront afternoons",
+      "description": "Spend time by the water, discover lakeside dining and plan a boating or fishing outing. Check individual operators for seasonal availability and rentals.",
+      "url": "https://www.visitakron-summit.org/plan/communities/portage-lakes/"
+    },
+    "nimisila": {
+      "name": "Nimisila Reservoir Metro Park",
+      "location": "Green",
+      "tag": "Birding & paddling",
+      "description": "Look for waterbirds, enjoy shoreline views or plan a paddle on the reservoir. Check current access notices and bring the equipment your outing needs.",
+      "url": "https://www.summitmetroparks.org/parks-trails/nimisila-reservoir-metro-park/"
+    },
+    "firestone": {
+      "name": "Firestone Metro Park",
+      "location": "Akron",
+      "tag": "Trails & nature",
+      "description": "Take a break outdoors with wooded trails, wetlands and picnic areas. Use the park map and current alerts to plan your visit.",
+      "url": "https://www.summitmetroparks.org/parks-trails/firestone-metro-park/"
+    },
+    "lock3": {
+      "name": "Lock 3 Park",
+      "location": "Downtown Akron",
+      "tag": "Downtown outings",
+      "description": "Explore Akron’s downtown gathering place and its seasonal entertainment. Look up the current calendar for concerts, community events and winter activities.",
+      "url": "https://www.visitakron-summit.org/blog/post/explore-the-newly-renovated-lock-3-park-in-downtown-akron-your-go-to-spot-for-year-round-fun/"
+    },
+    "sippo": {
+      "name": "Sippo Lake Park",
+      "location": "Perry Township",
+      "tag": "Trails & lake time",
+      "description": "Walk wooded trails, enjoy the lake and explore the park’s nature offerings. Seasonal paddling rentals make this a great warm-weather outing.",
+      "url": "https://www.visitcanton.com/directory/sippo-lake-park/"
+    },
+    "belden": {
+      "name": "Belden Village Mall",
+      "location": "Canton / Belden Village",
+      "tag": "Shopping & entertainment",
+      "description": "Browse national retailers and local shops, grab a bite and explore entertainment options. Check the directory for individual store and restaurant hours.",
+      "url": "https://beldenvillagemall.com/"
+    },
+    "palace": {
+      "name": "Canton Palace Theatre",
+      "location": "Downtown Canton",
+      "tag": "Movies & live shows",
+      "description": "Catch a film, concert or special performance inside Canton’s historic theater. See what’s playing and reserve your tickets directly with the venue.",
+      "url": "https://cantonpalacetheatre.org/"
+    },
+    "jackson": {
+      "name": "Jackson Bog State Nature Preserve",
+      "location": "Jackson Township",
+      "tag": "Nature & boardwalks",
+      "description": "Explore an unusual wetland landscape along designated trails and boardwalks. Check preserve rules before visiting; pets are not permitted.",
+      "url": "https://www.visitcanton.com/directory/jackson-bog-state-nature-preserve/"
+    }
+  },
+  "guides": {
+    "stow": {
+      "attractions": [
+        "cvnp",
+        "stan",
+        "zoo",
+        "kent"
+      ],
+      "restaurants": [
+        "blue-door",
+        "cafe",
+        "crave",
+        "swensons"
+      ],
+      "activities": [
+        "silver",
+        "fox",
+        "munroe",
+        "downtown"
+      ]
+    },
+    "cuyahoga-falls": {
+      "attractions": [
+        "zoo",
+        "stan",
+        "cvnp",
+        "art"
+      ],
+      "restaurants": [
+        "blue-door",
+        "beau",
+        "crave",
+        "butcher"
+      ],
+      "activities": [
+        "workz",
+        "downtown",
+        "cascade",
+        "blossom"
+      ]
+    },
+    "akron-south": {
+      "attractions": [
+        "maps",
+        "zoo",
+        "art",
+        "mckinley"
+      ],
+      "restaurants": [
+        "twisted",
+        "brix",
+        "bistro",
+        "caston"
+      ],
+      "activities": [
+        "portage",
+        "nimisila",
+        "firestone",
+        "lock3"
+      ]
+    },
+    "canton": {
+      "attractions": [
+        "hof",
+        "mckinley",
+        "maps",
+        "canton-art"
+      ],
+      "restaurants": [
+        "gervasi",
+        "ninety-one",
+        "table-six",
+        "aladdins"
+      ],
+      "activities": [
+        "sippo",
+        "belden",
+        "palace",
+        "jackson"
+      ]
+    }
+  },
+  "photos": {
+    "cvnp": [
+      "images/ohio-scenic.jpg",
+      "Brandywine Falls in Cuyahoga Valley National Park",
+      "NPS / D.J. Reiser",
+      "https://www.nps.gov/npgallery/GetAsset/5d7dc28d-155d-4519-3e3b-88bcbb3706cf"
+    ],
+    "zoo": [
+      "images/local/zoo.jpg",
+      "Saki monkeys at Akron Zoo",
+      "Akron Zoo",
+      "https://www.akronzoo.org/"
+    ],
+    "maps": [
+      "images/local/maps.jpg",
+      "Historic helicopters outside the MAPS Air Museum hangar",
+      "MAPS Air Museum",
+      "https://mapsairmuseum.org/"
+    ],
+    "hof": [
+      "images/local/hof.jpg",
+      "Visitors at the Pro Football Hall of Fame entrance",
+      "Pro Football Hall of Fame",
+      "https://www.profootballhof.com/visit"
+    ],
+    "blue-door": [
+      "images/local/blue-door.jpg",
+      "Chicken and waffles at The Blue Door Café & Bakery",
+      "The Blue Door Café & Bakery",
+      "https://www.bluedoorcafebakery.com/"
+    ],
+    "silver": [
+      "images/local/silver.jpg",
+      "Heritage Lake at Silver Springs Park",
+      "City of Stow",
+      "https://www.stowohio.gov/Facilities/Facility/Details/Silver-Springs-Park-16"
+    ],
+    "workz": [
+      "images/local/workz.jpg",
+      "The Workz in the historic Falls Theater on Front Street",
+      "The Workz",
+      "https://www.playattheworkz.com/"
+    ],
+    "twisted": [
+      "images/local/twisted-tourism.jpg",
+      "The Twisted Olive restaurant and landscaped grounds",
+      "Visit Canton",
+      "https://www.visitcanton.com/directory/the-twisted-olive/"
+    ],
+    "portage": [
+      "images/local/portage.jpg",
+      "Boats along the waterfront at Portage Lakes",
+      "Akron/Summit CVB",
+      "https://www.visitakron-summit.org/plan/communities/portage-lakes/"
+    ],
+    "gervasi": [
+      "images/local/gervasi.jpg",
+      "The Bistro at Gervasi Vineyard at dusk",
+      "Visit Canton",
+      "https://www.visitcanton.com/directory/the-bistro-at-gervasi-vineyard/"
+    ],
+    "sippo": [
+      "images/local/sippo.jpg",
+      "Visitors walking a wooded trail at Sippo Lake Park",
+      "Visit Canton",
+      "https://www.visitcanton.com/directory/sippo-lake-park/"
+    ]
+  }
+}
